@@ -1,0 +1,12 @@
+resource/woz3/data_split/Boo_ResDataSplitRand0925.json
+***** DATA INFO *****
+Using 100% of training data
+BATCH SIZE: 256
+Train: 25980 turns
+Valid: 3128 turns
+Test: 3113 turns
+# of batches: Train 101 Valid 12 Test 12
+*************************
+
+Using deep version with 1 layer
+Using sclstm as decoder with module list!
